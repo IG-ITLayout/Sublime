@@ -82,7 +82,7 @@ h4 {
   padding-top: 64px;
 }
 .header {
-  background-image: url(/img/header_img.jpg);
+  background-image: url(../img/header_img.jpg);
   background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -356,7 +356,7 @@ h4 {
   color: #1d1d1d;
 }
 .services {
-  background-image: url(/img/services_backgr.png);
+  background-image: url(../img/services_backgr.png);
   background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
