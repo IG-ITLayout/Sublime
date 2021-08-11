@@ -6,7 +6,7 @@ html {
 
 body {
   background-color: #161616;
-  background-image: url(/img/background_body.jpg);
+  background-image: url(../img/background_body.jpg);
   background-repeat: no-repeat;
   background-position: left top;
   background-size: cover;
