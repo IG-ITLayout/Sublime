@@ -1305,5 +1305,10 @@ textarea::placeholder {
   .services__title {
     text-align: start;
   }
+  .footer__title-content{
+  line-height: 60px;
+  padding-bottom: 5px;
+   padding-top: 5px;
+  }
 }
 /* media end */
