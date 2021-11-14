@@ -1057,6 +1057,9 @@ textarea::placeholder {
     padding: 100px 20px 20px 20px;
     align-items: flex-start;
   }
+  .contact__map{
+  padding-right:0;
+  }
   .contact__info {
     padding-top: 0;
   }
